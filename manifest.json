@@ -1,0 +1,23 @@
+{
+  "name": "Eaze Menu Fire",
+  "description": "Try Eaze products directly on the menu using your voice",
+  "version": "0.0.0",
+  "manifest_version": 2,
+  "homepage_url": "https://github.com/bendrucker/eaze-menu-fire",
+  "browser_action": {
+    "default_icon": "fire.png"
+  },
+  "permissions": [
+    "https://www.eazeup.com/menu"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.eazeup.com/menu"
+      ],
+      "js": [
+        "inject.js"
+      ]
+    }
+  ]
+}
