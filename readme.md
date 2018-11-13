@@ -1,4 +1,4 @@
-# eaze-menu-fire [![Build Status](https://travis-ci.org/bendrucker/eaze-menu-fire.svg?branch=master)](https://travis-ci.org/bendrucker/eaze-menu-fire)
+# eaze-menu-fire [![Build Status](https://travis-ci.org/bendrucker/eaze-menu-fire.svg?branch=master)](https://travis-ci.org/bendrucker/eaze-menu-fire) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/eaze-menu-fire.svg)](https://greenkeeper.io/)
 
 > Fire on the Eaze menu, blow it out!
 
