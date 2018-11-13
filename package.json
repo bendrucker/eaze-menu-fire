@@ -19,9 +19,9 @@
     "eaze"
   ],
   "devDependencies": {
-    "archiver": "^1.2.0",
-    "browserify": "^14.0.0",
-    "standard": "^8.0.0"
+    "archiver": "^3.0.0",
+    "browserify": "^16.2.3",
+    "standard": "^12.0.1"
   },
   "files": [
     "index.js",
